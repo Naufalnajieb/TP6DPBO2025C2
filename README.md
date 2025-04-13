@@ -5,6 +5,15 @@ Saya Naufal Fakhri Al-Najieb dengan NIM 2309648 mengerjakan Tugas Praktikum 6
 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya
 maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
+# Desain Diagram Program
+<img src="https://github.com/user-attachments/assets/2dc13117-5f80-4024-806c-eec246296254" width="800">
+
+# Penjelasan Desain Program
+1. Program ini terdiri dari 5 Class Utama dalam Bahasa java yaitu Class App,  MainMenu, FlappyBird, Player, dan Pipe
+2. Class FlappyBird menggambil objek class dari class Player dan Pipe dan berfungsi sebagai pembuat aturan dalam jalannya permainan FlappyBird
+3. Class MainMenu mengambil objek dari class FlappyBird dan berfungsi sebagai tampilan atau display (GUI) awal ketika user membuka aplikasi FlappyBird untuk mengarahkan ke Game sebenarnya
+4. Class App mengambil objek dari class MainMenu sebagai class paling awal =untuk menjalankan aplikasi FlappyBird
+
 # Penjelasan Alur Program
 **1. Tampilan Awal / Display Page Program**  
 
